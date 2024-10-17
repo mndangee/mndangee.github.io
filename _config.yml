@@ -3,13 +3,12 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 1
+version: 2
 
 # Personal info
 name: 김민혜
 title: 웹 프론트 엔지니어
 email: minhyee96@gmail.com
-# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -78,7 +77,7 @@ content:
       - layout: left
         title: CNAI
         link: https://www.cnai.ai/home
-        # link_text: cnai.ai
+        link_text: cnai.ai
         sub_title: React 프론트 개발자
         caption: 2023.09 ~ 현재
         quote: >
