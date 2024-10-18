@@ -87,7 +87,8 @@ content:
           - 프로덕트 디자인 일관성과 생산성을 높이기 위한 디자인 시스템 개선
           - 스토리북 도입을 하여 타부서(디자이너 / QA)와의 소통의 효율성을 증가
           - 회사의 주력 솔루션인 AI휴먼 에디터 영역을 개선하여 오류를 50% 감소
-       - layout: left
+       
+      - layout: left
         title: 플그림
         # link: https://www.cnai.ai/home
         # link_text: 플그림
@@ -97,7 +98,7 @@ content:
           e-Commerce 플랫폼을 중점으로 다양한 솔루션을 제공하는 SI 신세계 계열사
         description: | # this will include new lines to allow paragraphs
           - 커머스 위주의 UI작업 및 주로 <mark>상품<mark> / <mark>후기<mark> / <mark>문의<mark> 영역 작업
-          - Sass가 제공하는 기능(변수, 중첩, 믹스인 등)을 활용하여 CSS를 보다 효율적으로 관리
+        - Sass가 제공하는 기능(변수, 중첩, 믹스인 등)을 활용하여 CSS를 보다 효율적으로 관리
  
           
   # - title: Education # Title for the section
